@@ -56,7 +56,7 @@ Software Engineer
                     
 ### Badges
                     
-<b>My GitHub Stats</b>
+<p><b>My GitHub Stats</b></p>
 <a
                       href="http://www.github.com/flukcekku"><img src="https://github-readme-stats.vercel.app/api?username=flukcekku&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="flukcekku's GitHub stats" /></a>
                       <a
